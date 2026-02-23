@@ -4,5 +4,11 @@
         "description": "labnamadrugada blog",
         "tags": ["article", "apolzek", "blog"],
         "category": "BLOG"
+    },
+    {
+        "url": "https://www.comptia.org/en-us/certifications/security/",
+        "description": "Security+ Certification",
+        "tags": ["certification", "comptia", "security"],
+        "category": "CERTIFICATION"
     }
 ]
