@@ -1,0 +1,8 @@
+[
+    {
+        "url": "https://github.com/open-telemetry/opentelemetry-collector",
+        "description": "OpenTelemetry Collector",
+        "tags": ["opentelemetry", "", "observability", "golang", "cncf"],
+        "category": "O11Y"
+    }
+]
