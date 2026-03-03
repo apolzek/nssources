@@ -1,0 +1,638 @@
+[
+    {
+        "url": "https://medium.com/spacelift/flux-cd-vs-argo-cd-gitops-tools-comparison-ddf6b00c481c",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://levelup.gitconnected.com/15-hidden-aws-features-every-senior-developer-should-know-about-2471691269b9",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://letsrust.io/my-aws-cost-explorer-basic-queries-to-help-quickly-identify-potential-waste-of-resources-b1a4dd9afe33",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://techwithpatil.medium.com/top-10-common-devops-sre-interview-questions-and-answers-on-kubernetes-best-practices-81241fc88c17",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://medium.com/trainingcenter/protobuf-uma-alternativa-ao-json-e-xml-a35c66edab4d",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://medium.com/@andyblooman/use-aws-permission-boundaries-to-safeguard-your-cloud-763ef5093037",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://medium.com/@cstoppgmr/nginx-configuration-file-explanation-and-common-feature-configurations-90-practical-use-rate-bc49271f3766",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://aws.plainenglish.io/7-aws-vpc-best-practices-every-cloud-engineer-should-know-589c9fa7a016",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://chriskirby.net/highly-available-pi-hole-setup-in-kubernetes-with-secure-dns-over-https-doh/",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://blog.stackademic.com/microservices-security-best-practices-with-examples-using-go-73a77093d8ea",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://levelup.gitconnected.com/how-to-avoid-double-payments-in-distributed-systems-bd15234e1d66",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://aws.plainenglish.io/top-5-penetration-testing-tools-for-aws-f270cbcdcf8e",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://medium.com/@squadcast/12-best-sre-books-every-engineer-must-read-in-2024-d872295901c5",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://towardsdev.com/supercharge-linux-observability-with-ebpf-a-modern-approach-d3a038ebe325",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://jimjunior.medium.com/building-a-kubernetes-operator-a-practical-guide-2622882e2030",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://martinfowler.com/articles/practical-test-pyramid.html",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://manjulapiyumal.medium.com/mastering-kafka-advanced-concepts-every-senior-software-engineer-should-know-9283664c99e1",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://medium.com/plain-golang-tutorial/debunking-the-misconception-maximum-number-of-tcp-connections-on-a-server-cec8957d7ea5",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://blog.devops.dev/optimizing-methods-to-improve-service-throughput-in-linux-39bb4c76d234",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://codeium.com/download",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://medium.com/@ksaquib/ssl-certificates-a-common-interview-question-and-how-to-answer-it-b1716130ef38",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://medium.com/deep-golang/5-go-concurrency-patterns-i-wish-id-picked-up-sooner-b1b7dae6d71e",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://medium.com/@almatins/deploy-mongodb-replica-set-on-k8s-2ddcf4c8e17c",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://medium.com/@almatins/deloy-socketio-server-using-docker-and-nginx-load-balancer-ssl-64c53fe7014d",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://medium.com/towards-data-science/using-rabbitmq-streams-in-go-1ce132d75a47",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://levelup.gitconnected.com/11-data-structures-powering-database-51fc4691fcf7",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://tech.metalab.com/aws-sqs-deep-dive-dfed03c8b640",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://medium.com/@platform.engineers/setting-up-a-prometheus-and-grafana-monitoring-stack-from-scratch-63667bf3e011",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://www.theobjectivedad.com/pub/20230410-homelab-4/index.html",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://blog.devops.dev/how-to-achieve-zero-downtime-application-with-kubernetes-ba52fdea9a9b",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://aws.amazon.com/pt/blogs/aws-brasil/10-coisas-que-voce-pode-fazer-hoje-para-reduzir-os-custos-da-aws/",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://medium.com/@rifewang/kubernetes-how-kube-proxy-and-cni-work-together-1255d273f291",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://blog.4linux.com.br/kubernetes-gateway-api-um-adeus-e-obrigado-ao-ingress-controller/",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://boards.greenhouse.io/gympass/jobs/7798286002",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://medium.com/@obaff/nginx-for-high-availability-7d25cda24a38",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://finardi.me/posts/a-evolucao-do-sre-no-google/",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://finardi.me/posts/enviando-logs-para-o-s3-com-o-vector/",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://blog.devops.dev/installing-the-opentelemetry-collector-on-kubernetes-339f02c0e24c",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://github.com/paulocoutinhox/doc-talk-ai",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://blog.devops.dev/troubleshooting-nat-performance-issues-in-linux-systems-2c4583855d88",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://inferi.club/post/the-art-of-linux-kernel-rootkits",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://hwchiu.medium.com/previewing-k8s-pod-deployment-with-cluster-capacity-7640e3e596b8",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://medium.com/@jake.page91/deploy-a-postgressql-database-on-kubernetes-with-cloudnativepg-e527193b9b87",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://avi.im/blag/2024/s3-log/",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://medium.com/@RafaelDurelli/end-to-end-observability-with-kubernetes-parte-2-tracing-distribu%C3%ADdo-com-grafana-alloy-tempo-87da3a467927",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://medium.com/@harendra21/building-scalable-microservices-with-go-and-kubernetes-c56e41dd5eba",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://towardsdev.com/how-to-build-zero-trust-architectures-with-go-and-modern-security-protocols-25dff7cf0cf3",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://github.com/thanos-community/thanos-docker-compose",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://thanos.io/tip/proposals-done/202301-distributed-query-execution.md/",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://last9.io/blog/how-to-manage-high-cardinality-metrics-in-prometheus/",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://medium.com/@ismailkovvuru/boosting-kubernetes-performance-by-60-with-externaltrafficpolicy-and-sessionaffinity-18ac95ff8a7a",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://medium.com/containers-101/laser-focused-kubernetes-deployments-using-argo-rollouts-and-header-based-routing-b2fac95c8479",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://medium.com/@ansujain/building-a-high-throughput-data-pipeline-with-go-redis-and-postgresql-cd67c342f95d",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://blog.devgenius.io/traces-with-tempo-profiling-with-pyroscope-via-terraform-983982055567",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://aws.plainenglish.io/modern-load-testing-for-engineering-teams-with-k6-and-grafana-4214057dff65",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://medium.com/israeli-tech-radar/goodbye-vpns-hello-warp-building-a-cloudflare-zero-trust-network-in-the-modern-way-df16c24e9109",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://medium.com/@larasxavier/padroniza%C3%A7%C3%A3o-e-automa%C3%A7%C3%A3o-de-ambientes-grafana-em-alta-escala-com-ha-ldap-e-api-baf5500d0d0d",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://github.com/dockur/macos",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=IA_z8KHAEWg",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://github.com/equinix-labs/otel-cli",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://github.com/bcicen/ctop",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://area31.net.br/wiki/P%C3%A1gina_principal",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://github.com/thanos-community/thanos-docker-compose/blob/master/docker-compose.yml",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://area31.net.br/wiki/A_ascens%C3%A3o_e_queda_do_bitcoin",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://github.com/AutoMQ/automq",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://medium.com/@shawnastaff/building-a-complete-docker-home-lab-from-development-to-production-061e4ac823cb",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://blog.devops.dev/optimize-jvm-for-kubernetes-part-1-e0d8b7ace00a",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://medium.com/@michamarszaek/quality-gate-for-helm-charts-f260f5742198",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://leapcell.medium.com/caching-in-go-doing-it-right-158e82bcb232",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://itnext.io/scaling-multi-tenant-go-applications-5a30393d888e",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://faun.pub/what-is-observability-3-0-5ba6d805460e",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://medium.com/@0xape/golang-logging-with-grafana-loki-71f01a1ec749",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://signoz.io/guides/what-are-the-limitations-of-prometheus-labels/",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://medium.com/@RafaelDurelli/end-to-end-observability-with-kubernetes-prometheus-grafana-plus-a-spring-boot-bonus-6e97f220da14",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://blog.prateekjain.dev/modern-load-testing-for-engineering-teams-with-k6-and-grafana-4214057dff65",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://levelup.gitconnected.com/how-architecture-decision-records-adrs-can-help-manage-software-architecture-5b9a415fd30c",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://blog.devops.dev/shift-left-observability-visualizing-k6-load-tests-with-prometheus-grafana-37a4590f5a99",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main/receiver/prometheusreceiver",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://msalinas92.medium.com/installation-and-integration-of-hashicorp-vault-on-kubernetes-9cb909e15b89",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://github.com/santannaf/payments",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://medium.com/@harishsingh8529/the-only-golang-design-patterns-youll-actually-use-in-production-1073dcc5803a",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://brandur.org/postgres-atomicity",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=I6dpN0geIb4",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://www.americanas.com.br/livro-o-polimata-uma-historia-cultural-de-leonardo-da-vinci-a-susan-sontag-3042760948/p",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://mgufrone.medium.com/troubleshooting-3-alloy-loki-a-love-story-with-silly-mistakes-db00ffffcb71",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://medium.com/@sanikakotgire2003/scaling-prometheus-metrics-with-grafana-mimir-step-by-step-setup-and-demo-d6750e9693d2",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://opentelemetry.io/blog/2024/prom-and-otel/",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://blog.freshtracks.io/load-testing-prometheus-metric-ingestion-5b878711711c",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://medium.com/@vincenthartmann/migrating-from-promtail-to-grafana-alloy-in-kubernetes-53ce4c5b7556",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://github.com/VictoriaMetrics/prometheus-benchmark",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://last9.io/blog/thanos-vs-victoriametrics/",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://grigorkh.medium.com/practical-anomaly-detection-with-prometheus-and-promql-d3027b97da96",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://itnext.io/kubernetes-monitoring-a-complete-solution-part-8-logging-with-victorialogs-f17c44461034",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main/exporter/kafkaexporter",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://last9.io/docs/managing-high-cardinality/",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/issues/889",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://www.amazon.com.br/dp/8502003070",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://www.amazon.com.br/s?k=dicionario+silveira+bueno",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://itnext.io/kubernetes-monitoring-a-complete-solution-part-6-visualizing-with-grafana-956499ff4d87",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://medium.com/@letsCodeDevelopers/observability-at-scale-building-a-100-tb-day-prometheus-loki-platform-41e22a1a0784",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://x.com/AzaelOverload",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://pjreddie.com/darknet/yolo/",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://ricassiocosta.me/2025/08/como-venci-a-rinha-de-backend-2025/",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://vipnix.com.br/site/",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://github.com/hyperfield/yt-channel-downloader",
+        "description": "",
+        "tags": [],
+        "category": ""
+    }
+]

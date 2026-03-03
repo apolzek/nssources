@@ -6,9 +6,148 @@
         "category": "BLOG"
     },
     {
-        "url": "https://www.comptia.org/en-us/certifications/security/",
-        "description": "Security+ Certification",
-        "tags": ["certification", "comptia", "security"],
-        "category": "CERTIFICATION"
+        "url": "https://notebooklm.google.com/notebook/505ee4b1-ad05-4673-a06b-1ec106c2b940",
+        "description": "Dicas para educar crianças na era digital",
+        "tags": ["children", "notebooklm"],
+        "category": "FAMILY"
+    },
+    {
+        "url": "https://www.mermaidonline.live/mermaid-to-image",
+        "description": "Convert Mermaid Diagrams to High-Quality Images",
+        "tags": ["mermaid", "diagrams"],
+        "category": "TOOL"
+    },
+    {
+        "url": "https://logstalgia.io",
+        "description": "Logstalgia is a website traffic visualization that replays or streams web-server access logs as a pong-like battle between the web server and an never ending torrent of requests.",
+        "tags": ["opengl", "logs", "apache", "nginx"],
+        "category": "TOOL"
+    },
+    {
+        "url": "https://thehackernews.com/",
+        "description": "Trusted Source for Cybersecurity News.",
+        "tags": ["news", "cybersecurity", "hacking", "tools"],
+        "category": "NEWS"
+    },
+    {
+        "url": "https://www.bcb.gov.br/estabilidadefinanceira/comunicacaodados",
+        "description": "Comunicação eletrônica de dados no sistema financeiro. Pix - Ecossistema de Pagamentos Instantâneos​. Banco Central do Brasil",
+        "tags": ["pix", "bcb", "gov", "docs"],
+        "category": "FINANCE"
+    },
+    {
+        "url": "https://www.vcluster.com/",
+        "description": "Deliver Kubernetes faster, without the ops headache. Serve more tenants with virtual clusters. Flexible isolation options for every workload, all from one platform.",
+        "tags": ["k8s", "kubernetes", "cluster", "isolation"],
+        "category": "TOOL"
+    },
+    {
+        "url": "https://dagger.io/",
+        "description": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud",
+        "tags": ["cicd", "saas", "golang"],
+        "category": "TOOL"
+    },
+    {
+        "url": "https://www.datomic.com/",
+        "description": "The fully transactional, cloud-ready, distributed database.",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://sqliteonline.com/",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://elasticvue.com/",
+        "description": "The best way to manage your elasticsearch cluster",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://softwaremill.com/kafka-visualisation/",
+        "description": "Apache Kafka is a distributed event streaming platform. Using the tool below you can simulate how data flows through a replicated Kafka topic, to gain a better understanding of the message processing model.",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://gfw.report/blog/geedge_and_mesa_leak/en/",
+        "description": "Geedge & MESA Leak: Analyzing the Great Firewall's Largest Document Leak",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://ollama.com/blog/claude",
+        "description": "Claude Code with Anthropic API compatibility",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://agentation.dev/",
+        "description": "Agentation turns UI annotations into structured context that AI coding agents can understand and act on. Click any element, add a note, and paste the output into Claude Code, Cursor, or any AI tool.",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://www.otelbin.io/",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://sourceforge.net/projects/mabox-linux/",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://architecturenotes.co/p/redis",
+        "description": "",
+        "tags": [],
+        "category": ""
+    },
+    {
+        "url": "https://grafana.github.io/collector-configurator/",
+        "description": "",
+        "tags": [],
+        "category": ""
     }
 ]
+
+
+https://gambiconf.dev/
+https://devopsdays.org/
+https://gopherconbr.org/
+https://portswigger.net/web-security
+https://sec4us.com.br/treinamentos/
+https://roadmap.sh/roadmaps/
+https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P
+https://www.todamateria.com.br/
+https://drive.google.com/drive/folders/1if6MCeBCj8sxWwJIKhtgwU0GBuBW8uLx?s=09
+https://drive.google.com/drive/folders/1t-hTqg0-02t0cnc5SypHnb8t3CfE3bXU
+https://hotmart.com/pt-br/marketplace/produtos/projeto-animus/D7110677B?off=k2om3ela
+https://mega.nz/folder/YFpGAZ7S#Lz_blecK0n3YCywDIcpWEg/folder/EdY2XTbD
+https://drive.google.com/drive/u/0/folders/1if6MCeBCj8sxWwJIKhtgwU0GBuBW8uLx?s=09
+https://drive.google.com/drive/u/0/folders/0Bzqj0flCpPOiVjh0QzMwMW13TVk?resourcekey=0-1SUfrxOfhJGlltF3zos9Lg
+https://engeasier.com.br/iotcomesp32?hsrc=eXRtcXR0
+https://google.github.io/building-secure-and-reliable-systems/raw/toc.html
+https://www.wallpaperflare.com/
+https://alphacoders.com/resolution/3840x1080-wallpapers
+https://musclewiki.com/pt-br
+https://bancodata.com.br/
+https://openalternative.co/
+https://mise.jdx.dev/registry.html
+https://huggingface.co/
+https://lists.cncf.io/groups
+https://markmap.js.org/repl
+https://www.nagringa.dev/calculadora-clt-vs-pj
+https://www.drawdb.app/editor
+https://www.myretrotvs.com/
+https://modelcontextpro
+// tocol.io/docs/getting-started/intro
+https://pesquisa.codigofonte.com.br/2025
+https://oxide.computer/product/compute
+https://remoteclass.techaula.net/#!/login
+https://trello.com/u/apolzek/boards
+https://networkingtoolbox.net/

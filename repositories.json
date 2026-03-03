@@ -2,7 +2,50 @@
     {
         "url": "https://github.com/open-telemetry/opentelemetry-collector",
         "description": "OpenTelemetry Collector",
-        "tags": ["opentelemetry", "", "observability", "golang", "cncf"],
+        "tags": ["opentelemetry", "observability", "golang", "cncf"],
         "category": "O11Y"
+    },
+    {
+        "url": "https://github.com/pixlcore/xyops",
+        "description": "A complete workflow automation and server monitoring system.",
+        "tags": ["automation", "workflows", "monitoring", "alerting", "javascript"],
+        "category": "AUTOMATION"
+    },
+    {
+        "url": "https://github.com/bensadeh/tailspin",
+        "description": "A log file highlighter",
+        "tags": ["logs", "stdout", "rust"],
+        "category": "TUI"
+    },
+    {
+        "url": "https://github.com/kubernauts/practical-kubernetes-problems",
+        "description": "Used by our Practical Kubernetes Trainings.",
+        "tags": ["k8s", "kubernetes", "studies"],
+        "category": "STUDIES"
+    },
+    {
+        "url": "https://github.com/Infisical/infisical",
+        "description": "Infisical is the open-source platform for secrets, certificates, and privileged access management.",
+        "tags": ["secret", "management", "saas", "typescript"],
+        "category": "STUDIES"
+    },
+    {
+        "url": "https://github.com/affaan-m/everything-claude-code",
+        "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
+        "tags": ["claude", "ai", "agents", "anthropic"],
+        "category": "AI"
     }
 ]
+
+https://github.com/World-Open-Graph/br-acc
+https://github.com/openclaw/openclaw
+https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.
+https://github.com/marcinbudny/eventstore_exporter KurrentDB / EventStoreDB (https://www.kurrent.io/) metrics Prometheus exporter.
+https://github.com/darold/pgcluu PostgreSQL Cluster performances monitoring and auditing tool
+https://github.com/tellerops/teller Cloud native secrets management for developers - never leave your command line for secrets.
+https://github.com/orbitdb OrbitDB is a serverless, distributed, peer-to-peer database. 
+https://github.com/ansible-community/awesome-ansible
+https://github.com/cncf/artwork/blob/main/examples/graduated.md GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.
+https://github.com/slok/grafterm/tree/master Metrics dashboards on terminal (a grafana inspired terminal version)
+https://github.com/roboflow/supervision
+https://github.com/neo4j/neo4j
